@@ -1,0 +1,10 @@
+# vi
+*~
+
+# bin
+*.exe
+
+# tmp
+*.out
+*.o
+.err

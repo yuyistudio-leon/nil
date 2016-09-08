@@ -1,0 +1,13 @@
+# c++
+output/
+bin
+*.o
+
+# nl
+*.nl
+
+# yacc&lex
+yacc.hpp
+yacc.cpp
+lex.c
+yacc.output
