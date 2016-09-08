@@ -4,4 +4,5 @@
 bin
 *.output
 *.cbp
+*~
 *.layout
